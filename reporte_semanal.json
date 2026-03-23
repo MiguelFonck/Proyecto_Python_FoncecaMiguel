@@ -1,0 +1,55 @@
+{
+    "tipo_reporte": "reporte_semanal",
+    "cantidad_gastos": 7,
+    "total_gastado": 295000.0,
+    "total_gastado_categoria": {
+        "comida": 100000.0,
+        "transporte": 80000.0,
+        "entretenimiento": 115000,
+        "otros": 0
+    },
+    "gastos": [
+        {
+            "fecha": "2026-03-17",
+            "monto": 5000,
+            "categoria": "entretenimiento",
+            "descripcion": "juegos"
+        },
+        {
+            "fecha": "2026-03-21",
+            "monto": 10000,
+            "categoria": "entretenimiento",
+            "descripcion": "juegos"
+        },
+        {
+            "fecha": "2026-03-21",
+            "monto": 50000,
+            "categoria": "transporte",
+            "descripcion": "taxis"
+        },
+        {
+            "fecha": "2026-03-21",
+            "monto": 100000,
+            "categoria": "entretenimiento",
+            "descripcion": "comida cine"
+        },
+        {
+            "fecha": "2026-03-21",
+            "monto": 20000,
+            "categoria": "comida",
+            "descripcion": "hamburguesa "
+        },
+        {
+            "fecha": "2026-03-21",
+            "monto": 80000.0,
+            "categoria": "comida",
+            "descripcion": "sushi"
+        },
+        {
+            "fecha": "2026-03-23",
+            "monto": 30000.0,
+            "categoria": "transporte",
+            "descripcion": "buses"
+        }
+    ]
+}

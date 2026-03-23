@@ -1,0 +1,25 @@
+{
+    "tipo_reporte": "reporte_diario",
+    "cantidad_gastos": 2,
+    "total_gastado": 30213.0,
+    "total_gastado_categoria": {
+        "comida": 0,
+        "transporte": 30213.0,
+        "entretenimiento": 0,
+        "otros": 0
+    },
+    "gastos": [
+        {
+            "fecha": "2026-03-23",
+            "monto": 30000.0,
+            "categoria": "transporte",
+            "descripcion": "buses"
+        },
+        {
+            "fecha": "2026-03-23",
+            "monto": 213,
+            "categoria": "transporte",
+            "descripcion": "2 lechugas"
+        }
+    ]
+}
